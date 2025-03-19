@@ -1,5 +1,3 @@
-![изображение](https://github.com/user-attachments/assets/1daeca10-6b2e-4ca4-950b-f226598c0ac8)![изображение](https://github.com/user-attachments/assets/e963400d-4078-4818-88e7-c279cfa014f2)![изображение](https://github.com/user-attachments/assets/3f512973-aca6-428c-8d74-391fd1c7ecbb)﻿# DartCLICalc
-
 __*Calculator interface*__
 ![изображение](https://github.com/user-attachments/assets/926770b5-4855-432f-8811-b02f3e3d02c5)
 
